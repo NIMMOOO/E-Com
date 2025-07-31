@@ -1,0 +1,4 @@
+ProductID, ProductName, Category, Price, StockQuantity, SupplierID, Description
+1, Widget A, Widgets, 19.99, 100, 10, "A useful widget for various tasks."
+2, Widget B, Widgets, 29.99, 50, 10, "An advanced widget with extra features."
+3, Gadget A, Gadgets, 39.99, 200, 20, "A gadget that simplifies your life."
