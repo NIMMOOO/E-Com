@@ -43,9 +43,3 @@ def bad_request(e):
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5000)
-fetch("https://symmetrical-enigma-7jppp4rp95qcrvr-5000.app.github.dev/api/products")
-  .then(res => res.json())
-  .then(data => {
-    console.log("✅ Data from API:", data);
-  })
-  .catch(err => console.error("❌ Fetch error:", err));
