@@ -1,7 +1,7 @@
 import sqlite3
 import csv
 
-db_path = "products.db"
+db_path = "/workspaces/E-Com/products.db"
 csv_path = "/workspaces/E-Com/products.csv"  # Corrected path
 
 # Connect to SQLite database
